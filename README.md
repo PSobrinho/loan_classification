@@ -1,5 +1,13 @@
 # Classificador de empréstimo (loanKNN)
 
+Pedro H. N. Sobrinho (PSobrinho)
+
+Mail: pedrosobrinho.physics@gmail.com
+
+LinkedIn: https://www.linkedin.com/in/pedro-sobrinho-b84879108/
+
+Instagram: https://www.instagram.com/phnsobrinho/?hl=pt-br
+
 Usando o PyData Stack e o SKLearn será treinado e avaliado um modelo preditivo de classificação com objetivo de ajudar na tomada de decisão para concessão de empréstimos. O DataSample vem do dataset [Loan Data](https://www.kaggle.com/zhijinzhai/loandata) disponível no Kaggle, está estruturado da seguinte forma:
 
 * Loan_id: Valor unico que identifica cada cliente de empréstimo;
